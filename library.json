@@ -3,6 +3,7 @@
   "title": "BME280",
   "keywords": "bme280, esp32, esp8266, arduino",
   "description": "BME280 plugin for KB-IDE",
+  "category":"Sensors",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-bme280/",
   "author": "Adafruit | blocks by cmmakerclub",
   "email": "",
