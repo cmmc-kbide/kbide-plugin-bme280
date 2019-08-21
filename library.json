@@ -1,10 +1,10 @@
 {
   "name" : "kbide-plugin-bme280",
-  "title": "bme280",
+  "title": "BME280",
   "keywords": "bme280, esp32, esp8266, arduino",
-  "description": "Plugin bme280 for KB-IDE",
+  "description": "BME280 plugin for KB-IDE",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-bme280/",
-  "author": "cmmakerclub",
+  "author": "Adafruit | blocks by cmmakerclub",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-bme280/",
   "version": "1.0.0",
